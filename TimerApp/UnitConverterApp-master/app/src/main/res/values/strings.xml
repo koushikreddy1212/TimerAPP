@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Unit Converter</string>
+    <string-array name="units_array">
+        <item>Meter</item>
+        <item>Kilometer</item>
+        <item>Mile</item>
+        <item>Centimeter</item>
+        <item>Inch</item>
+        <item>Foot</item>
+        <item>Yard</item>
+        <item>Gram</item>
+        <item>Kilogram</item>
+        <item>Pound</item>
+        <item>Ounce</item>
+        <item>Liter</item>
+        <item>Milliliter</item>
+        <item>Gallon</item>
+        <item>Celsius</item>
+        <item>Fahrenheit</item>
+    </string-array>
+</resources>
